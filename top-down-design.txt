@@ -1,0 +1,108 @@
+Top down design task:  MAKING A SANDWICH
+
+1 Prepare a sandwich building station
+  1.1 Find an area to prepare sandwich
+  1.2 Clear the area
+  1.3 Get a knife
+    1.3.1 Open knife drawer
+    1.3.2 Grab chef's knife
+    1.3.3 Hone knife
+      1.3.3.1 Grab honing steel from drawer
+      1.3.3.2 Draw knife blade across steel
+      1.3.3.3 Put away honing steel
+    1.3.4 Close knife drawer
+  1.4 Get cutting board
+  1.5 Place items in prep area
+    1.5.1 Knoll cutting board and knife
+
+2 Get sandwich supplies
+  2.1 Get ham
+    2.1.1 Open meat drawer
+      2.1.1.1 open fridge
+      2.1.1.2 open meat drawer
+    2.1.2 Grab ham
+    2.1.3 Place ham in prep area
+    2.1.4 Close fridge
+      2.1.4.1 Close meat drawer
+      2.1.4.2 Close fridge
+  2.2 Get cheese
+    2.2.1 Open fridge
+    2.2.2 Grab cheese
+    2.2.3 Place cheese in prep area
+    2.2.4 Close fridge
+  2.3 Get veggies
+    2.3.1 Open veggie drawer
+      2.3.1.1 Open fridge
+      2.3.1.2 Open veggie drawer
+    2.3.2 Grab Lettuce
+    2.3.3 Place Lettuce in prep area
+    2.3.4 Grab Tomato
+    2.3.5 Place tomato in prep area
+    2.3.6 Close fridge
+      2.3.6.1 Close veggie drawer
+      2.3.6.2 Close fridge
+  2.4 Get bread
+    2.4.1 open fridge
+    2.4.2 grab bread
+    2.4.3 place bread in prep area
+    2.4.4 close fridge
+  2.5 Get add-ons
+    2.5.1 open fridge
+    2.5.2 grab dijon_mustard
+    2.5.3 place dijon_mustard in prep area
+    2.5.4 grab mayo
+    2.5.5 place mayo in prep area
+    2.5.6 Close fridge
+  2.6 Get plate
+    2.6.1 open plate cabinet
+    2.6.2 get plate
+    2.6.3 put plate on counter
+    2.6.4 close plate cabinet
+
+
+3 Assemble the sandwich
+  3.1 bread
+    3.1.1 Open bread
+    3.1.2 Grab two slices
+      3.1.2.1 Put one slice on plate
+      3.1.2.2 Put one slice aside
+    3.1.3 Close bread
+  3.2 meat
+    3.2.1 Open ham
+    3.2.2 Grab 3 slices of ham
+    3.2.3 Place the ham on the bread
+    3.2.4 close ham
+  3.3 veggies
+    3.3.1 Add Lettuce
+      3.3.1.1 Open lettuce container
+      3.3.1.2 Break off a good leaf
+      3.3.1.3 Wash the leaf
+        3.3.1.3.1 Turn on sink water
+        3.3.1.3.2 clean leaf in water
+        3.3.1.3.3 Turn off sink water
+        3.3.1.3.4 Dry leaf with paper towel
+          3.3.1.3.4.1 Get paper towel
+      3.3.1.4 Place lettuce on sandwich
+    3.3.2 Add Tomato
+      3.3.2.1 Cut tomato_slice
+        3.3.2.1.1 use kife and cutting board to cut end off Tomato
+        3.3.2.1.2 discard end
+        3.3.2.1.3 cut a slice of Tomato
+      3.3.2.2 Place tomato_slice on sandwich
+  3.4 extras
+    3.4.1 Add mayo
+      3.4.1.1 grab mayo
+      3.4.1.2 open mayo
+        3.4.1.2.1 unscrew lid
+        3.4.1.2.2 place lid in prep area
+      3.4.1.3 apply mayo to sandwich with knife
+      3.4.1.4 close mayo
+        3.4.1.4.1 pick up lid
+        3.4.1.4.2 screw lid on mayo
+    3.4.2 add dijon_mustard
+      3.4.2.1 grab dijon_mustard
+      3.4.2.2 shake dijon_mustard
+      3.4.2.3 squeeze dijon_mustard onto sandwich
+  3.5 bread_cap
+    3.5.1 pick up bread_cap
+    3.5.2 place on top of sandwich
