@@ -1,0 +1,38 @@
+Class: Dog
+
+Instance/Object: Sydney
+name ("Sydney")
+breed ("Beagle")
+height (14)
+known_commands ["Lay Down", "Come", "Sit"]
+standing (false)
+
+Instance/Object: Charlotte
+name ("Charlotte")
+breed ("Beagle")
+height (13)
+known_commands ["Sit", "Wait", "Shake"]
+standing (true)
+
+Instance/Object: Josie
+name ("Josie")
+breed ("Border Collie")
+height (20)
+known_commands ["Wait", "Sit", "Speak", "Up"]
+standing (true)
+
+Class: Boat
+
+Instance/Object: Small Boat
+length (15)
+color ("White")
+bunks (0)
+crew_members ["Mike", "Erin"]
+crew_titles {"Mike" => "Captain", "Erin" => "First Mate"}
+
+Instance/Object: Overnight Boat
+length (35)
+color ("Blue")
+bunks (5)
+crew_members ["Mike", "Erin", "Sydney", "Charlotte"]
+crew_titles {"Mike" => "Captain", "Erin" => "First Mate", "Sydney" => "Queen of Bork", "Charlotte" => "Chef"}
