@@ -1,4 +1,4 @@
-Top down design task:  MAKING A SANDWICH
+Top down design:  MAKING A SANDWICH
 
 1 Prepare a sandwich building station
   1.1 Find an area to prepare sandwich
@@ -85,7 +85,7 @@ Top down design task:  MAKING A SANDWICH
       3.3.1.4 Place lettuce on sandwich
     3.3.2 Add Tomato
       3.3.2.1 Cut tomato_slice
-        3.3.2.1.1 use kife and cutting board to cut end off Tomato
+        3.3.2.1.1 use knife and cutting board to cut end off Tomato
         3.3.2.1.2 discard end
         3.3.2.1.3 cut a slice of Tomato
       3.3.2.2 Place tomato_slice on sandwich
