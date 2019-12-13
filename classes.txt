@@ -1,7 +1,6 @@
 Class: Dog
 
 Attributes:
-
 name (string)
 breed (string)
 height (integer)
@@ -9,7 +8,6 @@ known_commands (array)
 standing (boolean)
 
 Methods:
-
 rename (changes name)
 show_breed (displays breed)
 show_height (displays height in inches)
@@ -21,7 +19,6 @@ sit (changes standing to "false")
 Class: Boat
 
 Attributes:
-
 length (integer)
 color (string)
 bunks (integer)
@@ -29,7 +26,6 @@ crew_members (array)
 crew_titles (hash)
 
 Methods:
-
 show_length (displays length of boat)
 repaint (changes color of boat)
 add_sleeping (adds to bunks)
