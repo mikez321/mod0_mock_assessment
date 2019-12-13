@@ -1,0 +1,37 @@
+Class: Dog
+
+Attributes:
+
+name (string)
+breed (string)
+height (integer)
+known_commands (array)
+standing (boolean)
+
+Methods:
+
+rename (changes name)
+show_breed (displays breed)
+show_height (displays height in inches)
+learn_trick (adds new_trick to end of known_commands array)
+sit (changes standing to "false")
+
+
+
+Class: Boat
+
+Attributes:
+
+length (integer)
+color (string)
+bunks (integer)
+crew_members (array)
+crew_titles (hash)
+
+Methods:
+
+show_length (displays length of boat)
+repaint (changes color of boat)
+add_sleeping (adds to bunks)
+fire_crew (removes a member from array crew_members)
+display_captain (displays the name of the captain from hash crew_titles)
