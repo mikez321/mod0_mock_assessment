@@ -43,7 +43,7 @@ crew_titles {"Mike" => "Captain", "Erin" => "First Mate", "Sydney" => "Queen of 
 Methods:
 
 show_length: 35
-repaint: color "Yellow"
+repaint: color = "Yellow"
 add_sleeping: (5 + 1 = 6)
 fire_crew: ["Erin", "Sydney", "Charlotte"]
 display_captain: "Mike"
